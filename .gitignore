@@ -10,7 +10,7 @@
 *.rpt
 *.wcfg
 *.html
-TMR.xpr
+
 # Vivado working directories (can be regenerated)
 *.cache/
 *.runs/
@@ -36,3 +36,6 @@ build/
 *.swo
 *~
 .DS_Store
+
+
+*.xpr
