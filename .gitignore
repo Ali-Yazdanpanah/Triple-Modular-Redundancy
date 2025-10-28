@@ -1,0 +1,38 @@
+# Vivado-generated project state
+*.xpr.lock
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.ltx
+*.dcp
+*.rpt
+*.wcfg
+*.html
+
+# Vivado working directories (can be regenerated)
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.gen/
+*.data/
+.Xil/
+
+# XSIM / simulation scratch
+xsim.dir/
+xvlog.log
+xelab.log
+*.jou.*
+*.log.*
+build/
+
+# Common backup / temp files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
